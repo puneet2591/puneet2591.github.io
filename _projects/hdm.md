@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
+title: Harmony Decision Maker
+description: HARMONY Decision Maker guides you through the 5 Steps of the ProConCloud process to help you make better faster decisions when it really matters.
+img: assets/img/hdm.jpeg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

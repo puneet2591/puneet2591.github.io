@@ -5,7 +5,8 @@
 body {
   padding-bottom: 70px;
   color: var(--global-text-color);
-  background-color: var(--global-bg-color);
+  background-color: #e7ebef;
+  font-weight: normal;
 
   h1,
   h2,
@@ -15,6 +16,13 @@ body {
   h6 {
     scroll-margin-top: 66px;
   }
+}
+
+// background
+body.background-img {
+  background-image: url('background_img.jpg');
+  width: 100%;
+  height: auto;
 }
 
 body.fixed-top-nav {

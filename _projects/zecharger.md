@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: ZeCharger
+description: Find a phone charger within 5 minutes wherever you are (A 100% free service) ZeCharger recharges your smartphones in more than 1000 locations and makes your connected life more beautiful
+img: assets/img/zecharger.jpeg
+importance: 4
 category: work
-giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

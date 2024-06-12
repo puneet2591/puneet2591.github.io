@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Ember
+description: Powered by AI, EMBER is a mobile telehealth platform that connects patients with medical professionals within minutes. It offers quick, personalized care through a simple, easy-to-use app.
+img: assets/img/ember.jpeg
+redirect: https://unsplash.com
+importance: 3
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

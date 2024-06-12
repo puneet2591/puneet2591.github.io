@@ -1,12 +1,13 @@
 ---
 layout: page
 permalink: /repositories/
-title: repositories
-description: Edit the `_data/repositories.yml` and change the `github_users` and `github_repos` lists to include your own GitHub profile and repositories.
+title: Repositories
+description: Checkout my 4 notable GitHub repositories showcasing my expertise in iOS app development. These projects highlight my proficiency in Swift, Objective-C, and advanced iOS frameworks, demonstrating my ability to build robust, user-centric applications. Each repository features comprehensive documentation and clean, efficient code, reflecting my commitment to best practices and continuous learning. These projects not only exemplify my technical skills but also my passion for innovation in mobile app development.
 nav: true
 nav_order: 4
 ---
 
+<!--
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
@@ -16,7 +17,7 @@ nav_order: 4
     {% include repository/repo_user.liquid username=user %}
   {% endfor %}
 </div>
-
+-->
 ---
 
 {% if site.repo_trophies.enabled %}

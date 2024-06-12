@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Citi Bank
+description: Citi Mobile app provides the joy of banking at your fingertips. It is a one-stop solution to manage your accounts, investments and credit cards on your iPhone.
+img: assets/img/citibank.jpeg
 importance: 3
-category: fun
+category: work
 ---
 
 Every project has a beautiful feature showcase page.

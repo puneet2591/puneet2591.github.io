@@ -1,12 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - puneet2591
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - puneet2591/SimpleSelectionMenu
+  - puneet2591/BasicSetup
+  - puneet2591/MarvelComics
+  - puneet2591/puneetmahajan.github.io

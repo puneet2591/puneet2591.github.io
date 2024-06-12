@@ -180,6 +180,17 @@ ul.task-list input[type="checkbox"] {
   color: var(--global-theme-color);
 }
 
+.biography {
+  font-size: 20px;
+  letter-spacing: .15px;
+  line-height: 1.5;
+}
+
+.content-bio {
+  color: #3f51b5;
+  font-weight: 600;
+}
+
 // Profile
 
 .profile {
@@ -189,6 +200,7 @@ ul.task-list input[type="checkbox"] {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    text-align: center;
 
     p {
       display: inline-block;
@@ -219,7 +231,7 @@ ul.task-list input[type="checkbox"] {
 
 .post-description {
   margin-bottom: 2rem;
-  font-size: 0.875rem;
+  font-size: 20px;
 
   a {
     color: inherit;
@@ -236,8 +248,9 @@ ul.task-list input[type="checkbox"] {
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: #dee4e8;
   opacity: 0.95;
+  font-weight: 400;
 }
 
 .navbar .dropdown-menu {
@@ -370,10 +383,11 @@ ul.task-list input[type="checkbox"] {
 // Social (bottom)
 
 .social {
-  text-align: center;
+  text-align: left;
+  margin-top: 100px;
 
   .contact-icons {
-    font-size: 4rem;
+    font-size: 2rem;
 
     a {
       i::before {
@@ -494,6 +508,12 @@ footer.sticky-bottom {
 @media (min-width: 768px) {
   .repo {
     max-width: 50%;
+  }
+  .mt-md-0 {
+    max-width: 100%;
+  }
+  .col {
+    padding-bottom: 15px;
   }
 }
 
@@ -621,6 +641,7 @@ footer.sticky-bottom {
   .card {
     img {
       width: 100%;
+      height: 180px;
     }
   }
 
