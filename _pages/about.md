@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>Senior iOS Engineer</p>
     <p>Pune, Maharashtra, India, 411021</p>
-    <p>puneetonly12@gmail.com</p>
+    <b>puneetonly12@gmail.com</b>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
