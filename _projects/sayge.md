@@ -2,7 +2,7 @@
 layout: page
 title: Sayge
 description: A new way to learn. Sayge is a peer to peer learning app on iOS and android that allows people to teach, learn, and make money.
-img: assets/img/sayge.png
+img: assets/img/sayge/sayge.png
 importance: 1
 category: work
 related_publications: false

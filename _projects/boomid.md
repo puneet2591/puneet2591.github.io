@@ -2,7 +2,7 @@
 layout: page
 title: BoomID
 description: The BoomID platform employs cutting-edge Identity Assurance measures to safeguard businesses and consumers from threats. It offers robust protection, ensuring security and trust in digital interactions.
-img: assets/img/boomid.jpeg
+img: assets/img/boomid/boomid.jpeg
 importance: 2
 category: work
 giscus_comments: false
